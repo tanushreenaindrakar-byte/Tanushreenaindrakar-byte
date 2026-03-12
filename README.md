@@ -1,16 +1,13 @@
-## Hi there 👋
+# <div align="center">👋 Hi, I’m **Tanushree**</div>
 
-<!--
-**tanushreenaindrakar-byte/Tanushreenaindrakar-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👀 Profile Visitors:
+![Visitor Count](https://komarev.com/ghpvc/?username=Tanushreenaindrakar-byte&color=blue&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 About Me
+I’m a **AIML Student** currently passionate about **creating efficient web applications** and **digital marketing**.  
+Exploring new technologies and improving my **full-stack** and **machine learning** skills.  
+Reach me at: **tanushreenaindrakar@gmail.com**
